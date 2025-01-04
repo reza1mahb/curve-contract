@@ -1,2 +1,2 @@
-*.sol linguist-language=Solidity
+*.sol linguist-language=Solidity89789
 *.vy linguist-language=Python
